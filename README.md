@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Nguyễn%20Trương%20Thiện%20Phát%20(Fat)&fontSize=36&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Frontend%20Developer%20|%20Creative%20Coder&descAlignY=50&descAlign=62" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Ngô%20Nguyễn%20Minh%20Trí%20(Fat)&fontSize=36&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Frontend%20Developer%20|%20Creative%20Coder&descAlignY=50&descAlign=62" width="100%" />
 
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_ID?v=4" alt="Profile Picture" width="200" style="border-radius: 50%;" />
@@ -6,7 +6,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F72281&center=true&vCenter=true&random=false&width=435&lines=Xin+chào,+tôi+là+Phát;Frontend+Developer;Always+learning+new+things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F72281&center=true&vCenter=true&random=false&width=435&lines=Xin+chào,+tôi+là+Trí;Frontend+Developer;Always+learning+new+things" alt="Typing SVG" />
   </a>
 </h1>
 
