@@ -104,16 +104,16 @@
   <br>
   
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Kenne400k&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kenne400k&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="180" />
+    <img src="https://github-readme-stats.vercel.app/api?username=MINHTRIk&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MINHTRI&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="180" />
   </p>
   
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kenne400k&theme=radical&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MINHTRI&theme=radical&hide_border=true" alt="GitHub Streak" />
   </p>
   
   <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kenne400k&theme=radical" alt="Profile Details" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MINHTRI&theme=radical" alt="Profile Details" />
   </p>
 </details>
 
@@ -121,7 +121,7 @@
   <summary><b>🏆 Thành tích & Danh hiệu</b></summary>
   <br>
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Kenne400k&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=MINHTRI&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
   </p>
 </details>
 
